@@ -1,0 +1,6 @@
+.vs
+*.sln
+*.vcxproj
+*.vcxproj.*
+Debug/
+x64/
